@@ -25,15 +25,6 @@ I’m still learning and growing, but I’m excited to explore how **AI, electro
 - VLSI Design & Analog Circuits  
 - Cloud (Oracle & Google)  
 
-**Web/Backend:**  
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
-
-**Databases:**  
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
-
----
 
 🌟 **What I Do**
 - Create projects using **Python, SQL, and AI/ML**  
